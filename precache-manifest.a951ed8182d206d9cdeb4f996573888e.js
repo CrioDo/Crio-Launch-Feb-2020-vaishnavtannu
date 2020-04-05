@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7e735ed61eca21c0093901b2144cc243",
+    "revision": "2cd29ed70dbf29e9edeacf075e77c496",
     "url": "/Crio-Launch-Feb-2020-vaishnavtannu/index.html"
   },
   {
-    "revision": "770920549a85f0d63baa",
+    "revision": "175feed3b039bb0423cc",
     "url": "/Crio-Launch-Feb-2020-vaishnavtannu/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "67a25d1703891fd72111",
+    "revision": "7050b4f0859d787c98ac",
     "url": "/Crio-Launch-Feb-2020-vaishnavtannu/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "770920549a85f0d63baa",
-    "url": "/Crio-Launch-Feb-2020-vaishnavtannu/static/js/2.daac8b4e.chunk.js"
+    "revision": "175feed3b039bb0423cc",
+    "url": "/Crio-Launch-Feb-2020-vaishnavtannu/static/js/2.d4ffe200.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/Crio-Launch-Feb-2020-vaishnavtannu/static/js/2.daac8b4e.chunk.js.LICENSE.txt"
+    "url": "/Crio-Launch-Feb-2020-vaishnavtannu/static/js/2.d4ffe200.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "67a25d1703891fd72111",
-    "url": "/Crio-Launch-Feb-2020-vaishnavtannu/static/js/main.9e3f6c1f.chunk.js"
+    "revision": "7050b4f0859d787c98ac",
+    "url": "/Crio-Launch-Feb-2020-vaishnavtannu/static/js/main.c20e7473.chunk.js"
   },
   {
     "revision": "e9bddba85cc0e5a4c6ae",

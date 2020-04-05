@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-vaishnavtannu/precache-manifest.04bc1828261d45d55aa82ed92a8d8adc.js"
+  "/Crio-Launch-Feb-2020-vaishnavtannu/precache-manifest.a951ed8182d206d9cdeb4f996573888e.js"
 );
 
 self.addEventListener('message', (event) => {
